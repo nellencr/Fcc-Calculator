@@ -1,4 +1,4 @@
-# `FCC    Calculator`
+# `FCC Calculator`
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -22,7 +22,7 @@ It is frontend react-app Calculator
 
 
 ## `Live Demo`
- Click [here](https://kind-curran-01cf22.netlify.app) for Live Demo
+ Click [here](https://peaceful-yonath-c84f8d.netlify.app) for Live Demo
 
 
 👤 **Author**
@@ -30,5 +30,5 @@ It is frontend react-app Calculator
 - Github: [@nellencr](https://github.com/nellencr)
 - Twitter: [Nella](https://twitter.com/Nella75794271)
 - Linkedin: [Nela Komane](https://www.linkedin.com/in/nela-komane-8866b9192/)
-- Email: nellencr@gmail.com "# Fcc-Calculator" 
-"# Fcc-Calculator" 
+- Email: nellencr@gmail.com 
+
